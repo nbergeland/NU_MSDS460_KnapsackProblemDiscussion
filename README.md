@@ -1,4 +1,4 @@
-# NU_MSDS460_KnapsackProblemDiscussion
+# NU_MSDS460_KnapsackProblemDiscussion_Week5
 Knapsack problem using Pythons Pulp package to optimize items we should pack for a cross country move.
 
 #problem and values outlined below
